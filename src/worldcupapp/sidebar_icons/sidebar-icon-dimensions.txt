@@ -1,0 +1,9 @@
+Sidebar icon dimensions:
+
+70 down from the top.
+
+label-size: 70x50 - position: centered.
+
+50px gap between icons
+
+panel background colour: [51,51,51]

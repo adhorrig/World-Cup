@@ -1,0 +1,8 @@
+3/3/2014 22:40
+updated all NewsGUI files with Navigation links
+make pages "undecorated" i.e. removes X, minimise and maximise top border
+it does mean that the application cannot be dragged around the screen
+Set fonts to calibri 13 bold
+Set icon buttons to agreed size
+fixed page sizes all to 1024 x 768 (minor differences fixed)
+rearranged other items on forms to line up with navigation buttons

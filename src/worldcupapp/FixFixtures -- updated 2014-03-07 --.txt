@@ -1,0 +1,19 @@
+7th March 2014 - fixed pages not going invisible and added "dispose" to page close
+
+ Volume in drive C is OS
+ Volume Serial Number is CA7E-FD8A
+
+ Directory of C:\Users\Nilsson\SkyDrive\NCI\Semester2\OOP\netbeans\s2-java-project\WorldCupApp\src\worldcupapp
+
+07/03/2014  10:37                 0 fix.txt
+07/03/2014  10:31            34,235 FixGroupABC.form
+07/03/2014  10:31            22,664 FixGroupABC.java
+07/03/2014  10:31            31,757 FixGroupDEF.form
+07/03/2014  10:31            22,512 FixGroupDEF.java
+07/03/2014  10:31            22,959 FixGroupGH.form
+07/03/2014  10:31            19,128 FixGroupGH.java
+03/03/2014  14:05               386 FixGUIProto.java
+07/03/2014  10:31            10,533 FixGUITest.form
+07/03/2014  10:31            13,312 FixGUITest.java
+              11 File(s)        178,365 bytes
+               0 Dir(s)  43,157,331,968 bytes free

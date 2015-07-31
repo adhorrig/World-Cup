@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="85" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="LblNewstype1" min="-2" max="-2" attributes="0"/>
+                          <Component id="lblNewstype2" min="-2" max="-2" attributes="0"/>
+                          <Component id="LblNewstype3" min="-2" max="-2" attributes="0"/>
+                          <Component id="LblNewstype4" min="-2" max="-2" attributes="0"/>
+                          <Component id="LblHeadlinetext" min="-2" max="-2" attributes="0"/>
+                          <Component id="LblFullarticletext" min="-2" max="-2" attributes="0"/>
+                          <Component id="LblArticlenbr" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="SpFullarticletext" alignment="0" pref="789" max="32767" attributes="0"/>
+                              <Component id="TfHeadlinetext" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                          <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                              <Component id="TfNewstype4" alignment="0" pref="175" max="32767" attributes="0"/>
+                              <Component id="TfNewstype3" alignment="0" max="32767" attributes="0"/>
+                              <Component id="TfNewstype2" alignment="0" max="32767" attributes="0"/>
+                              <Component id="TfNewstype1" alignment="0" max="32767" attributes="0"/>
+                              <Component id="TfArticlenbr" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="94" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Component id="LblImagelarge" min="-2" max="-2" attributes="0"/>
+                                  <Component id="LblImagesmall" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="TfImagesmall" max="32767" attributes="0"/>
+                                  <Component id="TfImagelarge" pref="259" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="1" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jScrollPane1" min="-2" pref="350" max="-2" attributes="0"/>
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                                      <Component id="BtnUpdate" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="106" max="-2" attributes="0"/>
+                                      <Component id="BtnDisplay" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="205" max="-2" attributes="0"/>
+                                      <Component id="btnSave" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="78" max="-2" attributes="0"/>
+                                      <Component id="btnLoad" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace pref="56" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="TfArticlenbr" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="LblArticlenbr" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="LblNewstype1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="TfNewstype1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblNewstype2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="TfNewstype2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="LblNewstype3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="TfNewstype3" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="LblNewstype4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="TfNewstype4" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="LblHeadlinetext" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="TfHeadlinetext" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="LblFullarticletext" min="-2" max="-2" attributes="0"/>
+                  <Component id="SpFullarticletext" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="LblImagesmall" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="TfImagesmall" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="LblImagelarge" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="TfImagelarge" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="54" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="BtnUpdate" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="BtnDisplay" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="btnSave" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="btnLoad" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" min="-2" pref="96" max="-2" attributes="0"/>
+              <EmptySpace pref="231" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JTextField" name="TfArticlenbr">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TfArticlenbrActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblArticlenbr">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Articlenbr"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblNewstype1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Newstype1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblNewstype2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Newstype2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblNewstype3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Newstype3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblNewstype4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Newstype4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblHeadlinetext">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Headlinetext"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblFullarticletext">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Fullarticletext"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblImagesmall">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Imagesmall"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TfNewstype1">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TfNewstype1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TfNewstype2">
+    </Component>
+    <Component class="javax.swing.JTextField" name="TfNewstype3">
+    </Component>
+    <Component class="javax.swing.JTextField" name="TfNewstype4">
+    </Component>
+    <Component class="javax.swing.JTextField" name="TfHeadlinetext">
+    </Component>
+    <Component class="javax.swing.JTextField" name="TfImagesmall">
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblImagelarge">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Imagelarge"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TfImagelarge">
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="SpFullarticletext">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="TaFullarticletext">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="BtnUpdate">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Update"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BtnUpdateActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="BtnDisplay">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Display"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BtnDisplayActionPerformed"/>
+      </Events>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="lineWrap" type="boolean" value="true"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="Press Update and then Press Display to get the Data to load.&#xa;This is a temporary measure before FILE IO code is written!"/>
+            <Property name="wrapStyleWord" type="boolean" value="true"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="btnSave">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Save"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnSaveActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnLoad">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Load"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnLoadActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

@@ -1,0 +1,34 @@
+6/3/2014 - Tested and Finalised Files Thursday 6th March at 3pm approx
+
+ Volume in drive C is OS
+ Volume Serial Number is CA7E-FD8A
+
+ Directory of C:\Users\Nilsson\SkyDrive\NCI\Semester2\OOP\netbeans\s2-java-project\WorldCupApp\src\worldcupapp
+
+06/03/2014  18:26             1,382 news
+03/03/2014  22:42               402 News -- updated 2014-03-03 --.txt
+05/03/2014  18:42               510 News -- updated 2014-03-05 --.txt
+02/03/2014  11:14               550 News.java
+06/03/2014  14:44            12,678 NewsGUI.form
+06/03/2014  14:44            16,433 NewsGUI.java
+06/03/2014  14:44            10,492 NewsMenu.form
+06/03/2014  14:44            13,208 NewsMenu.java
+28/02/2014  15:59               286 NewsPlayer.java
+06/03/2014  14:44             8,373 NewsPlayerGUI.form
+06/03/2014  14:44            10,794 NewsPlayerGUI.java
+28/02/2014  16:00               284 NewsTeam.java
+06/03/2014  14:44             9,097 NewsTeamGUI.form
+06/03/2014  14:44            11,276 NewsTeamGUI.java
+              15 File(s)         95,765 bytes
+               0 Dir(s)  43,250,139,136 bytes free
+5/3/2014 18:30
+remove undecorated from GUI pages
+made main button link to mastermenu instead of newsmenu
+3/3/2014 22:40
+updated all NewsGUI files with Navigation links
+make pages "undecorated" i.e. removes X, minimise and maximise top border
+it does mean that the application cannot be dragged around the screen
+Set fonts to calibri 13 bold
+Set icon buttons to agreed size
+fixed page sizes all to 1024 x 768 (minor differences fixed)
+rearranged other items on forms to line up with navigation buttons

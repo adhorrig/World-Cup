@@ -1,0 +1,19 @@
+6/3/2014 - Tested and Finalised Files Thursday 6th March at 3pm approx
+
+ Volume in drive C is OS
+ Volume Serial Number is CA7E-FD8A
+
+ Directory of C:\Users\Nilsson\SkyDrive\NCI\Semester2\OOP\netbeans\s2-java-project\WorldCupApp\src\worldcupapp
+
+06/03/2014  14:46            34,235 FixGroupABC.form
+06/03/2014  14:46            22,661 FixGroupABC.java
+06/03/2014  14:46            31,757 FixGroupDEF.form
+06/03/2014  14:46            22,509 FixGroupDEF.java
+06/03/2014  14:45            22,959 FixGroupGH.form
+06/03/2014  14:45            19,125 FixGroupGH.java
+03/03/2014  14:05               386 FixGUIProto.java
+06/03/2014  14:53            10,533 FixGUITest.form
+06/03/2014  14:53            13,213 FixGUITest.java
+06/03/2014  18:27             1,153 fixtures
+              11 File(s)        178,531 bytes
+               0 Dir(s)  43,250,171,904 bytes free
